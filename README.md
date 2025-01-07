@@ -8,7 +8,7 @@ A dynamic LED light simulator that creates mesmerizing patterns using JavaScript
 - Snake-like animations that travel across the LED strip
 - Customizable timing and color patterns
 - Responsive design that adapts to screen width
-
+ 
 ## Technical Details
 
 The simulator uses vanilla JavaScript and HTML to create a grid of div elements that act as individual LEDs. Each LED can be controlled independently, allowing for complex animation patterns.
